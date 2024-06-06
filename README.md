@@ -8,4 +8,4 @@ Data files needed in the code are located in the `data` folder.
 
 
 This is the second part of a two-part curriculum designed to introduce R and ggplot2. If you are unfamiliar with the basic syntax, data types, and the tidyverse in R, then you should first check out Part One at:
-[`https://github.com/ELIXIREstonia/2024-06-18-R-basic`](https://github.com/ELIXIREstonia/2024-06-18-R-basic).
+[https://github.com/ELIXIREstonia/2024-06-18-R-basic](https://github.com/ELIXIREstonia/2024-06-18-R-basic).
