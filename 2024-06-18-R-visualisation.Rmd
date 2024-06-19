@@ -812,3 +812,7 @@ Find more options from
 
 
 ```
+
+#### Bonus
+
+Explore https://cran.r-project.org/web/packages/esquisse/vignettes/get-started.html for interactive plot building with 'esquisse' package.
