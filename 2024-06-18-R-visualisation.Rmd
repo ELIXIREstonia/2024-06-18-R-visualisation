@@ -33,7 +33,7 @@ in a segmented manner, primarily divided into four main panes.
 -   Files / **Plots** / Packages / **Help** / etc...
 
 see:
-[https://rstudio.github.io/cheatsheets/html/rstudio-ide.html](https://rstudio.github.io/cheatsheets/html/rstudio-ide.html){.uri}
+[https://rstudio.github.io/cheatsheets/html/rstudio-ide.html](https://rstudio.github.io/cheatsheets/html/rstudio-ide.html)
 for more detailed overview.
 
 This is the second part of a two-part curriculum designed to introduce R and
@@ -815,4 +815,5 @@ Find more options from
 
 #### Bonus
 
-Explore https://cran.r-project.org/web/packages/esquisse/vignettes/get-started.html for interactive plot building with 'esquisse' package.
+Explore ['esquisse'](https://cran.r-project.org/web/packages/esquisse/vignettes/get-started.html) package for 
+interactive plot building. It starts a shiny app to allow drag-and-drop graph building. 
